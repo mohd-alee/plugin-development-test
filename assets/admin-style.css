@@ -1,0 +1,15 @@
+.custom-fields-wrapper {
+	display: flex;
+	gap: 20px;
+}
+.custom-fields-wrapper > div {
+	flex-basis: 50%;
+}
+.custom-fields-wrapper label {
+	font-weight: 600;
+}
+.custom-fields-wrapper .custom-fieldgroup {
+	display: block;
+	width: 100%;
+	margin: 8px 0;
+}
